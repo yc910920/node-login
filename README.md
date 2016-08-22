@@ -10,11 +10,9 @@
 
 使用说明：
 
-1.npm install
+1. 启动mongodb；
 
-2. 启动mongodb；
-
-3. 启动项目: 在命令行窗口 cd 到项目目录，输入: node app.js
+2. 启动项目: 在命令行窗口 cd 到项目目录，输入: npm install && node app.js
 
 然后就可以通过 http://localhost:3000 访问了。
 
